@@ -1,5 +1,5 @@
-# Title
+# Simple Youtube clone made with React
 
-## Sub Title
+## React, Youtube API, Custom Hook
 
-Description
+This React App is hosted at https://react-youtube-kx3un05xa-tylerjvannoy.vercel.app/
