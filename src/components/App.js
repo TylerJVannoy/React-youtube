@@ -29,6 +29,4 @@ const App = () => {
   );
 };
 
-//follow onVideoSelect, it is defined here and passed into the render() function as a prop on VideoList, move to VideoList.js now
-
 export default App;

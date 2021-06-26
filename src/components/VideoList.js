@@ -12,9 +12,6 @@ const VideoList = ({ videos, onVideoSelect }) => {
     );
   });
 
-  //Where Videolist is defined, videos was already destructured, we went ahead and destructured onVideoSelect that we passed down from App.js, then passed it on to VideoItem
-  //Move to VideoItem.js now
-  //props.videos
   return <div className="ui relaxed divided list">{renderedList}</div>;
 };
 
